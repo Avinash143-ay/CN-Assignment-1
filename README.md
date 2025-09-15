@@ -10,7 +10,7 @@ This assignment demonstrates DNS resolution using a client-server architecture. 
 
 ### 1. Download the Packet Capture File
 
-Use the provided sample file **1.pcap** for this assignment.
+Use the provided sample file **1.pcap**(https://drive.google.com/file/d/1OjLtrl9QglB52Po-gvwyYWjj0f8ewl7S/view?usp=drive_link) for this assignment.
 
 ### 2. Run the Server
 
