@@ -10,7 +10,7 @@ Open the server script server_side.py in VS Code and run it. The server will sta
 
 3.Run the client:
 Open a terminal and run the client script using:
-     bash
+bash
      python dns_client.py
      
 The client will send DNS resolution requests to the server.
