@@ -17,9 +17,7 @@ Use the provided sample file **1.pcap**(https://drive.google.com/file/d/1OjLtrl9
 Open the server script `server_side.py` in VS Code (or any Python environment) and run it.
 The server will start listening for incoming client requests.
 
-```bash
-python server_side.py
-```
+
 
 ### 3. Run the Client
 
